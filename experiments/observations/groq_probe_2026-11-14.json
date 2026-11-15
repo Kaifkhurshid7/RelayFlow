@@ -1,0 +1,18 @@
+{
+  "measured_on": "2026-11-14",
+  "source": "real",
+  "model": "openai/gpt-oss-120b",
+  "request": "1 tiny chat completion (max_tokens=50), non-streaming, key 1",
+  "http_status": 200,
+  "round_trip_ms": 1049,
+  "headers_observed": {
+    "x-groq-region": "bom",
+    "x-ratelimit-limit-requests": "1000",
+    "x-ratelimit-limit-tokens": "8000",
+    "x-ratelimit-remaining-requests": "999",
+    "x-ratelimit-remaining-tokens": "7872",
+    "x-ratelimit-reset-requests": "1m26.4s",
+    "x-ratelimit-reset-tokens": "960ms"
+  },
+  "notes": "Header values are what the service returned, not yet cross-checked against console.groq.com/docs/rate-limits. limit-requests=1000 with reset 1m26.4s after 1 request is consistent with a 1000 requests/day budget refilling continuously (86.4s per request) - an inference, not confirmed. limit-tokens=8000 is presumably tokens per minute (reset 960ms after ~128 tokens used is consistent with 8000/min). Daily limits were NOT exhausted or tested."
+}
