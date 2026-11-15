@@ -1,0 +1,58 @@
+{
+ "4c883c914d7f": {
+  "grade": "correct",
+  "reasons": [
+   "all checks passed"
+  ],
+  "question_id": "Q13"
+ },
+ "b8e00a30d716": {
+  "grade": "correct",
+  "reasons": [
+   "all checks passed"
+  ],
+  "question_id": "Q06"
+ },
+ "38e3c93c189e": {
+  "grade": "refused_wrongly",
+  "reasons": [
+   "refused a question the library answers"
+  ],
+  "question_id": "Q03"
+ },
+ "4f47ce6c384f": {
+  "grade": "correct",
+  "reasons": [
+   "all checks passed"
+  ],
+  "question_id": "Q07"
+ },
+ "5949bd7fa15f": {
+  "grade": "correct",
+  "reasons": [
+   "all checks passed"
+  ],
+  "question_id": "Q10"
+ },
+ "0d957b3c32a8": {
+  "grade": "correct",
+  "reasons": [
+   "all checks passed"
+  ],
+  "question_id": "Q28"
+ },
+ "609e406f0593": {
+  "grade": "correct",
+  "reasons": [
+   "all checks passed"
+  ],
+  "question_id": "Q05"
+ },
+ "0fd04c0d657d": {
+  "grade": "correct",
+  "reasons": [
+   "all checks passed"
+  ],
+  "question_id": "Q09"
+ }
+}

@@ -1,0 +1,1025 @@
+{
+ "gate": 0.6,
+ "configs": {
+  "A": {
+   "rows": [
+    {
+     "id": "Q01",
+     "answerable": true,
+     "coverage": 1.0,
+     "refuses": false,
+     "k": 3,
+     "est_tokens": 605,
+     "source_hit": true,
+     "fact_recall": 1.0,
+     "all_facts": true
+    },
+    {
+     "id": "Q02",
+     "answerable": true,
+     "coverage": 1.0,
+     "refuses": false,
+     "k": 3,
+     "est_tokens": 748,
+     "source_hit": true,
+     "fact_recall": 1.0,
+     "all_facts": true
+    },
+    {
+     "id": "Q03",
+     "answerable": true,
+     "coverage": 0.478,
+     "refuses": true,
+     "k": 5,
+     "est_tokens": 996,
+     "source_hit": true,
+     "fact_recall": 1.0,
+     "all_facts": true
+    },
+    {
+     "id": "Q04",
+     "answerable": true,
+     "coverage": 0.874,
+     "refuses": false,
+     "k": 3,
+     "est_tokens": 711,
+     "source_hit": true,
+     "fact_recall": 1.0,
+     "all_facts": true
+    },
+    {
+     "id": "Q05",
+     "answerable": true,
+     "coverage": 0.828,
+     "refuses": false,
+     "k": 3,
+     "est_tokens": 705,
+     "source_hit": true,
+     "fact_recall": 1.0,
+     "all_facts": true
+    },
+    {
+     "id": "Q06",
+     "answerable": true,
+     "coverage": 0.887,
+     "refuses": false,
+     "k": 3,
+     "est_tokens": 836,
+     "source_hit": true,
+     "fact_recall": 1.0,
+     "all_facts": true
+    },
+    {
+     "id": "Q07",
+     "answerable": true,
+     "coverage": 0.777,
+     "refuses": false,
+     "k": 3,
+     "est_tokens": 548,
+     "source_hit": true,
+     "fact_recall": 1.0,
+     "all_facts": true
+    },
+    {
+     "id": "Q08",
+     "answerable": true,
+     "coverage": 1.0,
+     "refuses": false,
+     "k": 3,
+     "est_tokens": 888,
+     "source_hit": true,
+     "fact_recall": 1.0,
+     "all_facts": true
+    },
+    {
+     "id": "Q09",
+     "answerable": true,
+     "coverage": 1.0,
+     "refuses": false,
+     "k": 3,
+     "est_tokens": 612,
+     "source_hit": true,
+     "fact_recall": 1.0,
+     "all_facts": true
+    },
+    {
+     "id": "Q10",
+     "answerable": true,
+     "coverage": 1.0,
+     "refuses": false,
+     "k": 3,
+     "est_tokens": 820,
+     "source_hit": false,
+     "fact_recall": 1.0,
+     "all_facts": true
+    },
+    {
+     "id": "Q11",
+     "answerable": true,
+     "coverage": 0.766,
+     "refuses": false,
+     "k": 3,
+     "est_tokens": 825,
+     "source_hit": true,
+     "fact_recall": 1.0,
+     "all_facts": true
+    },
+    {
+     "id": "Q12",
+     "answerable": true,
+     "coverage": 1.0,
+     "refuses": false,
+     "k": 3,
+     "est_tokens": 704,
+     "source_hit": false,
+     "fact_recall": 0.0,
+     "all_facts": false
+    },
+    {
+     "id": "Q13",
+     "answerable": true,
+     "coverage": 0.784,
+     "refuses": false,
+     "k": 3,
+     "est_tokens": 738,
+     "source_hit": true,
+     "fact_recall": 1.0,
+     "all_facts": true
+    },
+    {
+     "id": "Q14",
+     "answerable": true,
+     "coverage": 0.893,
+     "refuses": false,
+     "k": 3,
+     "est_tokens": 900,
+     "source_hit": true,
+     "fact_recall": 1.0,
+     "all_facts": true
+    },
+    {
+     "id": "Q15",
+     "answerable": true,
+     "coverage": 0.793,
+     "refuses": false,
+     "k": 3,
+     "est_tokens": 820,
+     "source_hit": true,
+     "fact_recall": 1.0,
+     "all_facts": true
+    },
+    {
+     "id": "Q16",
+     "answerable": true,
+     "coverage": 1.0,
+     "refuses": false,
+     "k": 3,
+     "est_tokens": 864,
+     "source_hit": true,
+     "fact_recall": 1.0,
+     "all_facts": true
+    },
+    {
+     "id": "Q17",
+     "answerable": true,
+     "coverage": 1.0,
+     "refuses": false,
+     "k": 3,
+     "est_tokens": 804,
+     "source_hit": true,
+     "fact_recall": 1.0,
+     "all_facts": true
+    },
+    {
+     "id": "Q18",
+     "answerable": true,
+     "coverage": 0.702,
+     "refuses": false,
+     "k": 3,
+     "est_tokens": 900,
+     "source_hit": true,
+     "fact_recall": 1.0,
+     "all_facts": true
+    },
+    {
+     "id": "Q19",
+     "answerable": true,
+     "coverage": 1.0,
+     "refuses": false,
+     "k": 3,
+     "est_tokens": 900,
+     "source_hit": true,
+     "fact_recall": 1.0,
+     "all_facts": true
+    },
+    {
+     "id": "Q20",
+     "answerable": true,
+     "coverage": 1.0,
+     "refuses": false,
+     "k": 3,
+     "est_tokens": 672,
+     "source_hit": true,
+     "fact_recall": 1.0,
+     "all_facts": true
+    },
+    {
+     "id": "Q21",
+     "answerable": true,
+     "coverage": 0.803,
+     "refuses": false,
+     "k": 5,
+     "est_tokens": 1430,
+     "source_hit": true,
+     "fact_recall": 1.0,
+     "all_facts": true
+    },
+    {
+     "id": "Q22",
+     "answerable": true,
+     "coverage": 1.0,
+     "refuses": false,
+     "k": 5,
+     "est_tokens": 1332,
+     "source_hit": false,
+     "fact_recall": 1.0,
+     "all_facts": true
+    },
+    {
+     "id": "Q23",
+     "answerable": true,
+     "coverage": 1.0,
+     "refuses": false,
+     "k": 5,
+     "est_tokens": 1182,
+     "source_hit": true,
+     "fact_recall": 0.5,
+     "all_facts": false
+    },
+    {
+     "id": "Q24",
+     "answerable": true,
+     "coverage": 1.0,
+     "refuses": false,
+     "k": 5,
+     "est_tokens": 1305,
+     "source_hit": true,
+     "fact_recall": 1.0,
+     "all_facts": true
+    },
+    {
+     "id": "Q25",
+     "answerable": false,
+     "coverage": 0.515,
+     "refuses": true,
+     "k": 3,
+     "est_tokens": 705
+    },
+    {
+     "id": "Q26",
+     "answerable": false,
+     "coverage": 0.332,
+     "refuses": true,
+     "k": 3,
+     "est_tokens": 900
+    },
+    {
+     "id": "Q27",
+     "answerable": true,
+     "coverage": 0.929,
+     "refuses": false,
+     "k": 3,
+     "est_tokens": 900,
+     "source_hit": true,
+     "fact_recall": 1.0,
+     "all_facts": true
+    },
+    {
+     "id": "Q28",
+     "answerable": true,
+     "coverage": 0.818,
+     "refuses": false,
+     "k": 3,
+     "est_tokens": 836,
+     "source_hit": true,
+     "fact_recall": 1.0,
+     "all_facts": true
+    },
+    {
+     "id": "Q29",
+     "answerable": false,
+     "coverage": 1.0,
+     "refuses": false,
+     "k": 5,
+     "est_tokens": 1304
+    },
+    {
+     "id": "Q30",
+     "answerable": false,
+     "coverage": 0.472,
+     "refuses": true,
+     "k": 1,
+     "est_tokens": 300
+    },
+    {
+     "id": "Q31",
+     "answerable": false,
+     "coverage": 1.0,
+     "refuses": false,
+     "k": 3,
+     "est_tokens": 900
+    }
+   ],
+   "summary": {
+    "questions": 31,
+    "answerable": 26,
+    "source_hit_pct": 88.46153846153847,
+    "fact_recall_pct": 94.23076923076923,
+    "all_facts_pct": 92.3076923076923,
+    "gate_refuses_unanswerable_pct": 60.0,
+    "gate_wrongly_refuses_answerable_pct": 3.8461538461538463,
+    "mean_est_prompt_tokens": 860.9677419354839
+   }
+  },
+  "B": {
+   "rows": [
+    {
+     "id": "Q01",
+     "answerable": true,
+     "coverage": 1.0,
+     "refuses": false,
+     "k": 4,
+     "est_tokens": 1409,
+     "source_hit": true,
+     "fact_recall": 1.0,
+     "all_facts": true
+    },
+    {
+     "id": "Q02",
+     "answerable": true,
+     "coverage": 1.0,
+     "refuses": false,
+     "k": 4,
+     "est_tokens": 1400,
+     "source_hit": true,
+     "fact_recall": 1.0,
+     "all_facts": true
+    },
+    {
+     "id": "Q03",
+     "answerable": true,
+     "coverage": 1.0,
+     "refuses": false,
+     "k": 6,
+     "est_tokens": 2040,
+     "source_hit": true,
+     "fact_recall": 1.0,
+     "all_facts": true
+    },
+    {
+     "id": "Q04",
+     "answerable": true,
+     "coverage": 0.882,
+     "refuses": false,
+     "k": 4,
+     "est_tokens": 1655,
+     "source_hit": true,
+     "fact_recall": 1.0,
+     "all_facts": true
+    },
+    {
+     "id": "Q05",
+     "answerable": true,
+     "coverage": 1.0,
+     "refuses": false,
+     "k": 4,
+     "est_tokens": 1312,
+     "source_hit": true,
+     "fact_recall": 1.0,
+     "all_facts": true
+    },
+    {
+     "id": "Q06",
+     "answerable": true,
+     "coverage": 0.894,
+     "refuses": false,
+     "k": 4,
+     "est_tokens": 1443,
+     "source_hit": true,
+     "fact_recall": 1.0,
+     "all_facts": true
+    },
+    {
+     "id": "Q07",
+     "answerable": true,
+     "coverage": 0.79,
+     "refuses": false,
+     "k": 4,
+     "est_tokens": 1418,
+     "source_hit": true,
+     "fact_recall": 1.0,
+     "all_facts": true
+    },
+    {
+     "id": "Q08",
+     "answerable": true,
+     "coverage": 1.0,
+     "refuses": false,
+     "k": 4,
+     "est_tokens": 1864,
+     "source_hit": true,
+     "fact_recall": 1.0,
+     "all_facts": true
+    },
+    {
+     "id": "Q09",
+     "answerable": true,
+     "coverage": 1.0,
+     "refuses": false,
+     "k": 4,
+     "est_tokens": 2004,
+     "source_hit": true,
+     "fact_recall": 1.0,
+     "all_facts": true
+    },
+    {
+     "id": "Q10",
+     "answerable": true,
+     "coverage": 1.0,
+     "refuses": false,
+     "k": 4,
+     "est_tokens": 2290,
+     "source_hit": false,
+     "fact_recall": 1.0,
+     "all_facts": true
+    },
+    {
+     "id": "Q11",
+     "answerable": true,
+     "coverage": 0.872,
+     "refuses": false,
+     "k": 4,
+     "est_tokens": 2025,
+     "source_hit": true,
+     "fact_recall": 1.0,
+     "all_facts": true
+    },
+    {
+     "id": "Q12",
+     "answerable": true,
+     "coverage": 1.0,
+     "refuses": false,
+     "k": 4,
+     "est_tokens": 1904,
+     "source_hit": false,
+     "fact_recall": 1.0,
+     "all_facts": true
+    },
+    {
+     "id": "Q13",
+     "answerable": true,
+     "coverage": 1.0,
+     "refuses": false,
+     "k": 4,
+     "est_tokens": 1938,
+     "source_hit": true,
+     "fact_recall": 1.0,
+     "all_facts": true
+    },
+    {
+     "id": "Q14",
+     "answerable": true,
+     "coverage": 1.0,
+     "refuses": false,
+     "k": 4,
+     "est_tokens": 2218,
+     "source_hit": true,
+     "fact_recall": 1.0,
+     "all_facts": true
+    },
+    {
+     "id": "Q15",
+     "answerable": true,
+     "coverage": 1.0,
+     "refuses": false,
+     "k": 4,
+     "est_tokens": 2290,
+     "source_hit": true,
+     "fact_recall": 1.0,
+     "all_facts": true
+    },
+    {
+     "id": "Q16",
+     "answerable": true,
+     "coverage": 1.0,
+     "refuses": false,
+     "k": 4,
+     "est_tokens": 2334,
+     "source_hit": true,
+     "fact_recall": 1.0,
+     "all_facts": true
+    },
+    {
+     "id": "Q17",
+     "answerable": true,
+     "coverage": 1.0,
+     "refuses": false,
+     "k": 4,
+     "est_tokens": 2274,
+     "source_hit": true,
+     "fact_recall": 1.0,
+     "all_facts": true
+    },
+    {
+     "id": "Q18",
+     "answerable": true,
+     "coverage": 0.71,
+     "refuses": false,
+     "k": 4,
+     "est_tokens": 2196,
+     "source_hit": true,
+     "fact_recall": 1.0,
+     "all_facts": true
+    },
+    {
+     "id": "Q19",
+     "answerable": true,
+     "coverage": 1.0,
+     "refuses": false,
+     "k": 4,
+     "est_tokens": 2068,
+     "source_hit": true,
+     "fact_recall": 1.0,
+     "all_facts": true
+    },
+    {
+     "id": "Q20",
+     "answerable": true,
+     "coverage": 1.0,
+     "refuses": false,
+     "k": 4,
+     "est_tokens": 1872,
+     "source_hit": true,
+     "fact_recall": 1.0,
+     "all_facts": true
+    },
+    {
+     "id": "Q21",
+     "answerable": true,
+     "coverage": 0.808,
+     "refuses": false,
+     "k": 6,
+     "est_tokens": 2964,
+     "source_hit": true,
+     "fact_recall": 1.0,
+     "all_facts": true
+    },
+    {
+     "id": "Q22",
+     "answerable": true,
+     "coverage": 1.0,
+     "refuses": false,
+     "k": 6,
+     "est_tokens": 2378,
+     "source_hit": true,
+     "fact_recall": 1.0,
+     "all_facts": true
+    },
+    {
+     "id": "Q23",
+     "answerable": true,
+     "coverage": 1.0,
+     "refuses": false,
+     "k": 6,
+     "est_tokens": 2999,
+     "source_hit": true,
+     "fact_recall": 1.0,
+     "all_facts": true
+    },
+    {
+     "id": "Q24",
+     "answerable": true,
+     "coverage": 1.0,
+     "refuses": false,
+     "k": 6,
+     "est_tokens": 2939,
+     "source_hit": true,
+     "fact_recall": 1.0,
+     "all_facts": true
+    },
+    {
+     "id": "Q25",
+     "answerable": false,
+     "coverage": 0.506,
+     "refuses": true,
+     "k": 4,
+     "est_tokens": 1179
+    },
+    {
+     "id": "Q26",
+     "answerable": false,
+     "coverage": 0.332,
+     "refuses": true,
+     "k": 4,
+     "est_tokens": 2400
+    },
+    {
+     "id": "Q27",
+     "answerable": true,
+     "coverage": 1.0,
+     "refuses": false,
+     "k": 4,
+     "est_tokens": 2169,
+     "source_hit": true,
+     "fact_recall": 1.0,
+     "all_facts": true
+    },
+    {
+     "id": "Q28",
+     "answerable": true,
+     "coverage": 1.0,
+     "refuses": false,
+     "k": 4,
+     "est_tokens": 1832,
+     "source_hit": true,
+     "fact_recall": 1.0,
+     "all_facts": true
+    },
+    {
+     "id": "Q29",
+     "answerable": false,
+     "coverage": 1.0,
+     "refuses": false,
+     "k": 6,
+     "est_tokens": 3118
+    },
+    {
+     "id": "Q30",
+     "answerable": false,
+     "coverage": 0.469,
+     "refuses": true,
+     "k": 1,
+     "est_tokens": 600
+    },
+    {
+     "id": "Q31",
+     "answerable": false,
+     "coverage": 1.0,
+     "refuses": false,
+     "k": 4,
+     "est_tokens": 1854
+    }
+   ],
+   "summary": {
+    "questions": 31,
+    "answerable": 26,
+    "source_hit_pct": 92.3076923076923,
+    "fact_recall_pct": 100.0,
+    "all_facts_pct": 100.0,
+    "gate_refuses_unanswerable_pct": 60.0,
+    "gate_wrongly_refuses_answerable_pct": 0.0,
+    "mean_est_prompt_tokens": 2012.4516129032259
+   }
+  },
+  "C": {
+   "rows": [
+    {
+     "id": "Q01",
+     "answerable": true,
+     "coverage": 1.0,
+     "refuses": false,
+     "k": 6,
+     "est_tokens": 2147,
+     "source_hit": true,
+     "fact_recall": 1.0,
+     "all_facts": true
+    },
+    {
+     "id": "Q02",
+     "answerable": true,
+     "coverage": 1.0,
+     "refuses": false,
+     "k": 6,
+     "est_tokens": 2534,
+     "source_hit": true,
+     "fact_recall": 1.0,
+     "all_facts": true
+    },
+    {
+     "id": "Q03",
+     "answerable": true,
+     "coverage": 1.0,
+     "refuses": false,
+     "k": 9,
+     "est_tokens": 3567,
+     "source_hit": true,
+     "fact_recall": 1.0,
+     "all_facts": true
+    },
+    {
+     "id": "Q04",
+     "answerable": true,
+     "coverage": 1.0,
+     "refuses": false,
+     "k": 6,
+     "est_tokens": 2623,
+     "source_hit": true,
+     "fact_recall": 1.0,
+     "all_facts": true
+    },
+    {
+     "id": "Q05",
+     "answerable": true,
+     "coverage": 1.0,
+     "refuses": false,
+     "k": 6,
+     "est_tokens": 2030,
+     "source_hit": true,
+     "fact_recall": 1.0,
+     "all_facts": true
+    },
+    {
+     "id": "Q06",
+     "answerable": true,
+     "coverage": 0.894,
+     "refuses": false,
+     "k": 6,
+     "est_tokens": 2483,
+     "source_hit": true,
+     "fact_recall": 1.0,
+     "all_facts": true
+    },
+    {
+     "id": "Q07",
+     "answerable": true,
+     "coverage": 0.79,
+     "refuses": false,
+     "k": 6,
+     "est_tokens": 2393,
+     "source_hit": true,
+     "fact_recall": 1.0,
+     "all_facts": true
+    },
+    {
+     "id": "Q08",
+     "answerable": true,
+     "coverage": 1.0,
+     "refuses": false,
+     "k": 6,
+     "est_tokens": 3044,
+     "source_hit": true,
+     "fact_recall": 1.0,
+     "all_facts": true
+    },
+    {
+     "id": "Q09",
+     "answerable": true,
+     "coverage": 1.0,
+     "refuses": false,
+     "k": 6,
+     "est_tokens": 3204,
+     "source_hit": true,
+     "fact_recall": 1.0,
+     "all_facts": true
+    },
+    {
+     "id": "Q10",
+     "answerable": true,
+     "coverage": 1.0,
+     "refuses": false,
+     "k": 6,
+     "est_tokens": 2994,
+     "source_hit": false,
+     "fact_recall": 1.0,
+     "all_facts": true
+    },
+    {
+     "id": "Q11",
+     "answerable": true,
+     "coverage": 0.872,
+     "refuses": false,
+     "k": 6,
+     "est_tokens": 3225,
+     "source_hit": true,
+     "fact_recall": 1.0,
+     "all_facts": true
+    },
+    {
+     "id": "Q12",
+     "answerable": true,
+     "coverage": 1.0,
+     "refuses": false,
+     "k": 6,
+     "est_tokens": 3104,
+     "source_hit": false,
+     "fact_recall": 1.0,
+     "all_facts": true
+    },
+    {
+     "id": "Q13",
+     "answerable": true,
+     "coverage": 1.0,
+     "refuses": false,
+     "k": 6,
+     "est_tokens": 3138,
+     "source_hit": true,
+     "fact_recall": 1.0,
+     "all_facts": true
+    },
+    {
+     "id": "Q14",
+     "answerable": true,
+     "coverage": 1.0,
+     "refuses": false,
+     "k": 6,
+     "est_tokens": 3336,
+     "source_hit": true,
+     "fact_recall": 1.0,
+     "all_facts": true
+    },
+    {
+     "id": "Q15",
+     "answerable": true,
+     "coverage": 1.0,
+     "refuses": false,
+     "k": 6,
+     "est_tokens": 2977,
+     "source_hit": true,
+     "fact_recall": 1.0,
+     "all_facts": true
+    },
+    {
+     "id": "Q16",
+     "answerable": true,
+     "coverage": 1.0,
+     "refuses": false,
+     "k": 6,
+     "est_tokens": 3328,
+     "source_hit": true,
+     "fact_recall": 1.0,
+     "all_facts": true
+    },
+    {
+     "id": "Q17",
+     "answerable": true,
+     "coverage": 1.0,
+     "refuses": false,
+     "k": 6,
+     "est_tokens": 3474,
+     "source_hit": true,
+     "fact_recall": 1.0,
+     "all_facts": true
+    },
+    {
+     "id": "Q18",
+     "answerable": true,
+     "coverage": 0.71,
+     "refuses": false,
+     "k": 6,
+     "est_tokens": 2985,
+     "source_hit": true,
+     "fact_recall": 1.0,
+     "all_facts": true
+    },
+    {
+     "id": "Q19",
+     "answerable": true,
+     "coverage": 1.0,
+     "refuses": false,
+     "k": 6,
+     "est_tokens": 3122,
+     "source_hit": true,
+     "fact_recall": 1.0,
+     "all_facts": true
+    },
+    {
+     "id": "Q20",
+     "answerable": true,
+     "coverage": 1.0,
+     "refuses": false,
+     "k": 6,
+     "est_tokens": 3072,
+     "source_hit": true,
+     "fact_recall": 1.0,
+     "all_facts": true
+    },
+    {
+     "id": "Q21",
+     "answerable": true,
+     "coverage": 0.808,
+     "refuses": false,
+     "k": 9,
+     "est_tokens": 4618,
+     "source_hit": true,
+     "fact_recall": 1.0,
+     "all_facts": true
+    },
+    {
+     "id": "Q22",
+     "answerable": true,
+     "coverage": 1.0,
+     "refuses": false,
+     "k": 9,
+     "est_tokens": 3778,
+     "source_hit": true,
+     "fact_recall": 1.0,
+     "all_facts": true
+    },
+    {
+     "id": "Q23",
+     "answerable": true,
+     "coverage": 1.0,
+     "refuses": false,
+     "k": 9,
+     "est_tokens": 4256,
+     "source_hit": true,
+     "fact_recall": 1.0,
+     "all_facts": true
+    },
+    {
+     "id": "Q24",
+     "answerable": true,
+     "coverage": 1.0,
+     "refuses": false,
+     "k": 9,
+     "est_tokens": 3795,
+     "source_hit": true,
+     "fact_recall": 1.0,
+     "all_facts": true
+    },
+    {
+     "id": "Q25",
+     "answerable": false,
+     "coverage": 0.506,
+     "refuses": true,
+     "k": 6,
+     "est_tokens": 2379
+    },
+    {
+     "id": "Q26",
+     "answerable": false,
+     "coverage": 0.332,
+     "refuses": true,
+     "k": 6,
+     "est_tokens": 3600
+    },
+    {
+     "id": "Q27",
+     "answerable": true,
+     "coverage": 1.0,
+     "refuses": false,
+     "k": 6,
+     "est_tokens": 3369,
+     "source_hit": true,
+     "fact_recall": 1.0,
+     "all_facts": true
+    },
+    {
+     "id": "Q28",
+     "answerable": true,
+     "coverage": 1.0,
+     "refuses": false,
+     "k": 6,
+     "est_tokens": 2894,
+     "source_hit": true,
+     "fact_recall": 1.0,
+     "all_facts": true
+    },
+    {
+     "id": "Q29",
+     "answerable": false,
+     "coverage": 1.0,
+     "refuses": false,
+     "k": 9,
+     "est_tokens": 4884
+    },
+    {
+     "id": "Q30",
+     "answerable": false,
+     "coverage": 0.469,
+     "refuses": true,
+     "k": 1,
+     "est_tokens": 600
+    },
+    {
+     "id": "Q31",
+     "answerable": false,
+     "coverage": 1.0,
+     "refuses": false,
+     "k": 6,
+     "est_tokens": 3054
+    }
+   ],
+   "summary": {
+    "questions": 31,
+    "answerable": 26,
+    "source_hit_pct": 92.3076923076923,
+    "fact_recall_pct": 100.0,
+    "all_facts_pct": 100.0,
+    "gate_refuses_unanswerable_pct": 60.0,
+    "gate_wrongly_refuses_answerable_pct": 0.0,
+    "mean_est_prompt_tokens": 3097.0
+   }
+  }
+ }
+}

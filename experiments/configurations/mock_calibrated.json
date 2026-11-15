@@ -1,0 +1,45 @@
+{
+  "calibrated_from": [
+    "quality_real",
+    "real_steady",
+    "real_burst"
+  ],
+  "model": "openai/gpt-oss-120b",
+  "parameters": {
+    "base_latency_ms": 528.4,
+    "prefill_ms_per_1k_tokens": 89.1,
+    "latency_jitter_ms": 193.5,
+    "tokens_per_s": 511.7,
+    "reasoning_tokens": 61.8
+  },
+  "fit_details": {
+    "n_attempts": 72,
+    "n_trimmed_fit": 64,
+    "base_latency_ms": 528.4,
+    "prefill_ms_per_1k_tokens": 89.1,
+    "latency_jitter_ms": 193.5,
+    "tokens_per_s": 511.7,
+    "reasoning_tokens": 61.8,
+    "ttft_ms_p50_p95_raw": [
+      699.0,
+      1319.0
+    ],
+    "tokens_in_range": [
+      157,
+      4856
+    ]
+  },
+  "taken_from_docs_or_headers": {
+    "max_rpm": "30 (docs)",
+    "max_tpm": "8,000 (docs + x-ratelimit-limit-tokens)",
+    "max_daily_requests": "1,000 (docs + x-ratelimit-limit-requests)",
+    "bucket behaviour": "reset headers equal used/limit*window: continuously refilling buckets"
+  },
+  "not_calibrated": [
+    "failure_rate (no real 5xx observed; stand-in default 2% is an assumption)",
+    "overload_factor / pressure model (latency growth under load was NOT measured on the real service)",
+    "max_concurrency (not documented, not observed)",
+    "partial_rate / hang_rate / slow_rate (no real occurrences observed)",
+    "daily exhaustion behaviour (never exhausted the real daily limit)"
+  ]
+}

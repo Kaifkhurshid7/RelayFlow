@@ -1,0 +1,42 @@
+{
+ "run": "quality_real",
+ "changed": [
+  {
+   "request_id": "0ded04ebeb86",
+   "question_id": "Q05",
+   "config": "B",
+   "old_grade": "refused_wrongly",
+   "new_grade": "correct",
+   "reasons": [
+    "all checks passed"
+   ]
+  },
+  {
+   "request_id": "2a34fb784fdf",
+   "question_id": "Q05",
+   "config": "C",
+   "old_grade": "refused_wrongly",
+   "new_grade": "correct",
+   "reasons": [
+    "all checks passed"
+   ]
+  },
+  {
+   "request_id": "28116ff5078a",
+   "question_id": "Q10",
+   "config": "C",
+   "old_grade": "refused_wrongly",
+   "new_grade": "correct",
+   "reasons": [
+    "all checks passed"
+   ]
+  }
+ ],
+ "unchanged_n": 45,
+ "summary": {
+  "correct": 3,
+  "wrong": 0,
+  "refused_correctly": 0,
+  "refused_wrongly": 0
+ }
+}

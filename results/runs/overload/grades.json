@@ -1,0 +1,1303 @@
+{
+ "84cf223a56f7": {
+  "grade": "correct",
+  "reasons": [
+   "all checks passed"
+  ],
+  "question_id": "Q28"
+ },
+ "4616aa110f9b": {
+  "grade": "correct",
+  "reasons": [
+   "all checks passed"
+  ],
+  "question_id": "Q09"
+ },
+ "b74b73ee8c96": {
+  "grade": "refused_wrongly",
+  "reasons": [
+   "refused a question the library answers"
+  ],
+  "question_id": "Q03"
+ },
+ "d19424ad057a": {
+  "grade": "refused_correctly",
+  "reasons": [
+   "refused as required"
+  ],
+  "question_id": "Q29"
+ },
+ "d71ac2816db1": {
+  "grade": "correct",
+  "reasons": [
+   "all checks passed"
+  ],
+  "question_id": "Q06"
+ },
+ "602921d7443e": {
+  "grade": "wrong",
+  "reasons": [
+   "answered a question the library cannot answer"
+  ],
+  "question_id": "Q31"
+ },
+ "f49c593bc1d6": {
+  "grade": "correct",
+  "reasons": [
+   "all checks passed"
+  ],
+  "question_id": "Q17"
+ },
+ "949a89a3feb9": {
+  "grade": "wrong",
+  "reasons": [
+   "missing key fact ['text token', 'text stream']",
+   "missing key fact ['prefix', 'before']",
+   "missing key fact ['audio', 'speech']"
+  ],
+  "question_id": "Q10"
+ },
+ "c3e01d6a4263": {
+  "grade": "wrong",
+  "reasons": [
+   "missing key fact ['\\\\b8\\\\b', 'eight']",
+   "missing key fact ['\\\\b64\\\\b']"
+  ],
+  "question_id": "Q01"
+ },
+ "2a6dd2bf4968": {
+  "grade": "refused_wrongly",
+  "reasons": [
+   "refused a question the library answers"
+  ],
+  "question_id": "Q07"
+ },
+ "abb55c954ca4": {
+  "grade": "wrong",
+  "reasons": [
+   "missing key fact ['P100']",
+   "missing key fact ['12 hours', 'twelve hours']",
+   "missing key fact ['3\\\\.5 days', '300,000']",
+   "key facts are not in the cited passage text"
+  ],
+  "question_id": "Q05"
+ },
+ "beac96928a04": {
+  "grade": "refused_wrongly",
+  "reasons": [
+   "refused a question the library answers"
+  ],
+  "question_id": "Q22"
+ },
+ "0f6f10d3dddc": {
+  "grade": "correct",
+  "reasons": [
+   "all checks passed"
+  ],
+  "question_id": "Q13"
+ },
+ "5ae319f315a6": {
+  "grade": "correct",
+  "reasons": [
+   "all checks passed"
+  ],
+  "question_id": "Q17"
+ },
+ "8fe2d2002127": {
+  "grade": "wrong",
+  "reasons": [
+   "missing key fact ['text token', 'text stream']",
+   "missing key fact ['prefix', 'before']",
+   "missing key fact ['audio', 'speech']"
+  ],
+  "question_id": "Q10"
+ },
+ "6a0cedf68c75": {
+  "grade": "correct",
+  "reasons": [
+   "all checks passed"
+  ],
+  "question_id": "Q06"
+ },
+ "588994b518a4": {
+  "grade": "refused_wrongly",
+  "reasons": [
+   "refused a question the library answers"
+  ],
+  "question_id": "Q07"
+ },
+ "dbd9a82d09c5": {
+  "grade": "wrong",
+  "reasons": [
+   "missing key fact ['P100']",
+   "missing key fact ['12 hours', 'twelve hours']",
+   "missing key fact ['3\\\\.5 days', '300,000']",
+   "key facts are not in the cited passage text"
+  ],
+  "question_id": "Q05"
+ },
+ "6ec04ac30ef7": {
+  "grade": "wrong",
+  "reasons": [
+   "answered a question the library cannot answer"
+  ],
+  "question_id": "Q31"
+ },
+ "dffee9e9d45c": {
+  "grade": "wrong",
+  "reasons": [
+   "missing key fact ['\\\\b8\\\\b', 'eight']",
+   "missing key fact ['\\\\b64\\\\b']"
+  ],
+  "question_id": "Q01"
+ },
+ "ed1570d66f02": {
+  "grade": "correct",
+  "reasons": [
+   "all checks passed"
+  ],
+  "question_id": "Q13"
+ },
+ "28791ad748c7": {
+  "grade": "refused_wrongly",
+  "reasons": [
+   "refused a question the library answers"
+  ],
+  "question_id": "Q03"
+ },
+ "059469a19f08": {
+  "grade": "refused_correctly",
+  "reasons": [
+   "refused as required"
+  ],
+  "question_id": "Q29"
+ },
+ "edddc7f00174": {
+  "grade": "correct",
+  "reasons": [
+   "all checks passed"
+  ],
+  "question_id": "Q09"
+ },
+ "48f29f474dc3": {
+  "grade": "refused_wrongly",
+  "reasons": [
+   "refused a question the library answers"
+  ],
+  "question_id": "Q22"
+ },
+ "ce1329099175": {
+  "grade": "correct",
+  "reasons": [
+   "all checks passed"
+  ],
+  "question_id": "Q28"
+ },
+ "a132bb5ef4f8": {
+  "grade": "refused_wrongly",
+  "reasons": [
+   "refused a question the library answers"
+  ],
+  "question_id": "Q07"
+ },
+ "9eae86aa72c3": {
+  "grade": "correct",
+  "reasons": [
+   "all checks passed"
+  ],
+  "question_id": "Q13"
+ },
+ "0fb70ade55aa": {
+  "grade": "correct",
+  "reasons": [
+   "all checks passed"
+  ],
+  "question_id": "Q17"
+ },
+ "93fc70614d80": {
+  "grade": "correct",
+  "reasons": [
+   "all checks passed"
+  ],
+  "question_id": "Q28"
+ },
+ "d27a0ccd0d4a": {
+  "grade": "wrong",
+  "reasons": [
+   "answered a question the library cannot answer"
+  ],
+  "question_id": "Q31"
+ },
+ "d935a9ffb417": {
+  "grade": "wrong",
+  "reasons": [
+   "missing key fact ['\\\\b8\\\\b', 'eight']",
+   "missing key fact ['\\\\b64\\\\b']"
+  ],
+  "question_id": "Q01"
+ },
+ "2066473a3ad4": {
+  "grade": "refused_wrongly",
+  "reasons": [
+   "refused a question the library answers"
+  ],
+  "question_id": "Q03"
+ },
+ "23503134cd9f": {
+  "grade": "wrong",
+  "reasons": [
+   "missing key fact ['P100']",
+   "missing key fact ['12 hours', 'twelve hours']",
+   "missing key fact ['3\\\\.5 days', '300,000']",
+   "key facts are not in the cited passage text"
+  ],
+  "question_id": "Q05"
+ },
+ "cf8c48bfac3f": {
+  "grade": "refused_wrongly",
+  "reasons": [
+   "refused a question the library answers"
+  ],
+  "question_id": "Q22"
+ },
+ "bf550e17418b": {
+  "grade": "correct",
+  "reasons": [
+   "all checks passed"
+  ],
+  "question_id": "Q06"
+ },
+ "a1616157b236": {
+  "grade": "refused_correctly",
+  "reasons": [
+   "refused as required"
+  ],
+  "question_id": "Q29"
+ },
+ "7a45376298d7": {
+  "grade": "correct",
+  "reasons": [
+   "all checks passed"
+  ],
+  "question_id": "Q09"
+ },
+ "fef5b0aa7511": {
+  "grade": "wrong",
+  "reasons": [
+   "missing key fact ['text token', 'text stream']",
+   "missing key fact ['prefix', 'before']",
+   "missing key fact ['audio', 'speech']"
+  ],
+  "question_id": "Q10"
+ },
+ "b59344780ea8": {
+  "grade": "correct",
+  "reasons": [
+   "all checks passed"
+  ],
+  "question_id": "Q06"
+ },
+ "c8df32709e10": {
+  "grade": "wrong",
+  "reasons": [
+   "missing key fact ['text token', 'text stream']",
+   "missing key fact ['prefix', 'before']",
+   "missing key fact ['audio', 'speech']"
+  ],
+  "question_id": "Q10"
+ },
+ "3add87752889": {
+  "grade": "correct",
+  "reasons": [
+   "all checks passed"
+  ],
+  "question_id": "Q13"
+ },
+ "24eb0038a827": {
+  "grade": "wrong",
+  "reasons": [
+   "missing key fact ['\\\\b8\\\\b', 'eight']",
+   "missing key fact ['\\\\b64\\\\b']"
+  ],
+  "question_id": "Q01"
+ },
+ "eafe32d5fe92": {
+  "grade": "wrong",
+  "reasons": [
+   "answered a question the library cannot answer"
+  ],
+  "question_id": "Q31"
+ },
+ "f1d7cbc0d58a": {
+  "grade": "correct",
+  "reasons": [
+   "all checks passed"
+  ],
+  "question_id": "Q28"
+ },
+ "5c93084787d1": {
+  "grade": "refused_wrongly",
+  "reasons": [
+   "refused a question the library answers"
+  ],
+  "question_id": "Q22"
+ },
+ "07c2d8f210ca": {
+  "grade": "refused_wrongly",
+  "reasons": [
+   "refused a question the library answers"
+  ],
+  "question_id": "Q03"
+ },
+ "1492f02bf558": {
+  "grade": "refused_wrongly",
+  "reasons": [
+   "refused a question the library answers"
+  ],
+  "question_id": "Q07"
+ },
+ "999270fd0e0f": {
+  "grade": "correct",
+  "reasons": [
+   "all checks passed"
+  ],
+  "question_id": "Q09"
+ },
+ "5ee3eaed0063": {
+  "grade": "wrong",
+  "reasons": [
+   "missing key fact ['P100']",
+   "missing key fact ['12 hours', 'twelve hours']",
+   "missing key fact ['3\\\\.5 days', '300,000']",
+   "key facts are not in the cited passage text"
+  ],
+  "question_id": "Q05"
+ },
+ "8bd7609c0d13": {
+  "grade": "correct",
+  "reasons": [
+   "all checks passed"
+  ],
+  "question_id": "Q17"
+ },
+ "8c3ea7508202": {
+  "grade": "wrong",
+  "reasons": [
+   "missing key fact ['text token', 'text stream']",
+   "missing key fact ['prefix', 'before']",
+   "missing key fact ['audio', 'speech']"
+  ],
+  "question_id": "Q10"
+ },
+ "01b6e23581e8": {
+  "grade": "wrong",
+  "reasons": [
+   "missing key fact ['\\\\b8\\\\b', 'eight']",
+   "missing key fact ['\\\\b64\\\\b']"
+  ],
+  "question_id": "Q01"
+ },
+ "a2144685594e": {
+  "grade": "correct",
+  "reasons": [
+   "all checks passed"
+  ],
+  "question_id": "Q28"
+ },
+ "11df3b93c571": {
+  "grade": "correct",
+  "reasons": [
+   "all checks passed"
+  ],
+  "question_id": "Q06"
+ },
+ "2203990f69de": {
+  "grade": "refused_correctly",
+  "reasons": [
+   "refused as required"
+  ],
+  "question_id": "Q29"
+ },
+ "083337e4a42b": {
+  "grade": "refused_wrongly",
+  "reasons": [
+   "refused a question the library answers"
+  ],
+  "question_id": "Q07"
+ },
+ "bb628e2b8f8c": {
+  "grade": "correct",
+  "reasons": [
+   "all checks passed"
+  ],
+  "question_id": "Q09"
+ },
+ "e5536ace9c0d": {
+  "grade": "wrong",
+  "reasons": [
+   "answered a question the library cannot answer"
+  ],
+  "question_id": "Q31"
+ },
+ "7aa09bf816ca": {
+  "grade": "refused_wrongly",
+  "reasons": [
+   "refused a question the library answers"
+  ],
+  "question_id": "Q22"
+ },
+ "45e1aa902c99": {
+  "grade": "refused_correctly",
+  "reasons": [
+   "refused as required"
+  ],
+  "question_id": "Q29"
+ },
+ "f0d1fd41b9df": {
+  "grade": "correct",
+  "reasons": [
+   "all checks passed"
+  ],
+  "question_id": "Q13"
+ },
+ "a2eb04b0f7bf": {
+  "grade": "correct",
+  "reasons": [
+   "all checks passed"
+  ],
+  "question_id": "Q13"
+ },
+ "89db408879e3": {
+  "grade": "wrong",
+  "reasons": [
+   "missing key fact ['text token', 'text stream']",
+   "missing key fact ['prefix', 'before']",
+   "missing key fact ['audio', 'speech']"
+  ],
+  "question_id": "Q10"
+ },
+ "272ae96f6367": {
+  "grade": "wrong",
+  "reasons": [
+   "answered a question the library cannot answer"
+  ],
+  "question_id": "Q31"
+ },
+ "4811585ae977": {
+  "grade": "correct",
+  "reasons": [
+   "all checks passed"
+  ],
+  "question_id": "Q09"
+ },
+ "e59d28ccdd5b": {
+  "grade": "refused_wrongly",
+  "reasons": [
+   "refused a question the library answers"
+  ],
+  "question_id": "Q07"
+ },
+ "038ae894090e": {
+  "grade": "refused_wrongly",
+  "reasons": [
+   "refused a question the library answers"
+  ],
+  "question_id": "Q07"
+ },
+ "06a6e1ae27a5": {
+  "grade": "correct",
+  "reasons": [
+   "all checks passed"
+  ],
+  "question_id": "Q13"
+ },
+ "7cc6e4b97345": {
+  "grade": "correct",
+  "reasons": [
+   "all checks passed"
+  ],
+  "question_id": "Q09"
+ },
+ "1685d3dae6aa": {
+  "grade": "wrong",
+  "reasons": [
+   "answered a question the library cannot answer"
+  ],
+  "question_id": "Q31"
+ },
+ "505b3016c77e": {
+  "grade": "correct",
+  "reasons": [
+   "all checks passed"
+  ],
+  "question_id": "Q10"
+ },
+ "cf39dfc8c7ad": {
+  "grade": "correct",
+  "reasons": [
+   "all checks passed"
+  ],
+  "question_id": "Q10"
+ },
+ "72a96a20bd44": {
+  "grade": "",
+  "reasons": [
+   "not graded: no answer or refusal was produced from evidence"
+  ],
+  "question_id": "Q22"
+ },
+ "debafd9499de": {
+  "grade": "correct",
+  "reasons": [
+   "all checks passed"
+  ],
+  "question_id": "Q13"
+ },
+ "4edd7dcc3208": {
+  "grade": "",
+  "reasons": [
+   "not graded: no answer or refusal was produced from evidence"
+  ],
+  "question_id": "Q28"
+ },
+ "befcdedfa72f": {
+  "grade": "wrong",
+  "reasons": [
+   "answered a question the library cannot answer"
+  ],
+  "question_id": "Q31"
+ },
+ "0d3b5fc05830": {
+  "grade": "",
+  "reasons": [
+   "not graded: no answer or refusal was produced from evidence"
+  ],
+  "question_id": "Q03"
+ },
+ "b9960c3bef64": {
+  "grade": "correct",
+  "reasons": [
+   "all checks passed"
+  ],
+  "question_id": "Q09"
+ },
+ "18e5cd188257": {
+  "grade": "",
+  "reasons": [
+   "not graded: no answer or refusal was produced from evidence"
+  ],
+  "question_id": "Q17"
+ },
+ "02d9b9576f8c": {
+  "grade": "refused_wrongly",
+  "reasons": [
+   "refused a question the library answers"
+  ],
+  "question_id": "Q07"
+ },
+ "d46fb6349ea1": {
+  "grade": "",
+  "reasons": [
+   "not graded: no answer or refusal was produced from evidence"
+  ],
+  "question_id": "Q10"
+ },
+ "a5757eccb0c6": {
+  "grade": "correct",
+  "reasons": [
+   "all checks passed"
+  ],
+  "question_id": "Q13"
+ },
+ "b8fea120b401": {
+  "grade": "",
+  "reasons": [
+   "not graded: no answer or refusal was produced from evidence"
+  ],
+  "question_id": "Q07"
+ },
+ "7260bda0a061": {
+  "grade": "refused_wrongly",
+  "reasons": [
+   "refused a question the library answers"
+  ],
+  "question_id": "Q07"
+ },
+ "6d8d1d2b4896": {
+  "grade": "",
+  "reasons": [
+   "not graded: no answer or refusal was produced from evidence"
+  ],
+  "question_id": "Q05"
+ },
+ "f6c0e1a55a5b": {
+  "grade": "",
+  "reasons": [
+   "not graded: no answer or refusal was produced from evidence"
+  ],
+  "question_id": "Q03"
+ },
+ "e2bbd78e063c": {
+  "grade": "",
+  "reasons": [
+   "not graded: no answer or refusal was produced from evidence"
+  ],
+  "question_id": "Q17"
+ },
+ "faffca3b5cea": {
+  "grade": "",
+  "reasons": [
+   "not graded: no answer or refusal was produced from evidence"
+  ],
+  "question_id": "Q06"
+ },
+ "4b0c4933e6e6": {
+  "grade": "",
+  "reasons": [
+   "not graded: no answer or refusal was produced from evidence"
+  ],
+  "question_id": "Q01"
+ },
+ "a0a27162fd26": {
+  "grade": "",
+  "reasons": [
+   "not graded: no answer or refusal was produced from evidence"
+  ],
+  "question_id": "Q22"
+ },
+ "c2d8e611dead": {
+  "grade": "",
+  "reasons": [
+   "not graded: no answer or refusal was produced from evidence"
+  ],
+  "question_id": "Q17"
+ },
+ "2c19206ca9ee": {
+  "grade": "",
+  "reasons": [
+   "not graded: no answer or refusal was produced from evidence"
+  ],
+  "question_id": "Q03"
+ },
+ "292425ee3b6e": {
+  "grade": "wrong",
+  "reasons": [
+   "answered a question the library cannot answer"
+  ],
+  "question_id": "Q31"
+ },
+ "c9d400228b96": {
+  "grade": "correct",
+  "reasons": [
+   "all checks passed"
+  ],
+  "question_id": "Q10"
+ },
+ "3baf3d8eb23a": {
+  "grade": "",
+  "reasons": [
+   "not graded: no answer or refusal was produced from evidence"
+  ],
+  "question_id": "Q29"
+ },
+ "727a85a63145": {
+  "grade": "correct",
+  "reasons": [
+   "all checks passed"
+  ],
+  "question_id": "Q09"
+ },
+ "b9e92d16f4db": {
+  "grade": "wrong",
+  "reasons": [
+   "answered a question the library cannot answer"
+  ],
+  "question_id": "Q31"
+ },
+ "a89f83b7bca5": {
+  "grade": "correct",
+  "reasons": [
+   "all checks passed"
+  ],
+  "question_id": "Q13"
+ },
+ "d7601a74b90e": {
+  "grade": "correct",
+  "reasons": [
+   "all checks passed"
+  ],
+  "question_id": "Q09"
+ },
+ "c04c450b0849": {
+  "grade": "",
+  "reasons": [
+   "not graded: no answer or refusal was produced from evidence"
+  ],
+  "question_id": "Q06"
+ },
+ "a015cf0e3b33": {
+  "grade": "",
+  "reasons": [
+   "not graded: no answer or refusal was produced from evidence"
+  ],
+  "question_id": "Q22"
+ },
+ "ee96f258da27": {
+  "grade": "",
+  "reasons": [
+   "not graded: no answer or refusal was produced from evidence"
+  ],
+  "question_id": "Q29"
+ },
+ "1c4175b43821": {
+  "grade": "",
+  "reasons": [
+   "not graded: no answer or refusal was produced from evidence"
+  ],
+  "question_id": "Q01"
+ },
+ "908b1d656358": {
+  "grade": "",
+  "reasons": [
+   "not graded: no answer or refusal was produced from evidence"
+  ],
+  "question_id": "Q28"
+ },
+ "1fec8e9880da": {
+  "grade": "refused_wrongly",
+  "reasons": [
+   "refused a question the library answers"
+  ],
+  "question_id": "Q03"
+ },
+ "9e8ce6e0e916": {
+  "grade": "",
+  "reasons": [
+   "not graded: no answer or refusal was produced from evidence"
+  ],
+  "question_id": "Q05"
+ },
+ "0fae7c7ea05e": {
+  "grade": "refused_wrongly",
+  "reasons": [
+   "refused a question the library answers"
+  ],
+  "question_id": "Q07"
+ },
+ "68c22bb956bd": {
+  "grade": "",
+  "reasons": [
+   "not graded: no answer or refusal was produced from evidence"
+  ],
+  "question_id": "Q28"
+ },
+ "e50e76b29764": {
+  "grade": "wrong",
+  "reasons": [
+   "answered a question the library cannot answer"
+  ],
+  "question_id": "Q31"
+ },
+ "00ff287f9db4": {
+  "grade": "correct",
+  "reasons": [
+   "all checks passed"
+  ],
+  "question_id": "Q13"
+ },
+ "45fc70b2ddf2": {
+  "grade": "correct",
+  "reasons": [
+   "all checks passed"
+  ],
+  "question_id": "Q09"
+ },
+ "47e1a66c8e04": {
+  "grade": "",
+  "reasons": [
+   "not graded: no answer or refusal was produced from evidence"
+  ],
+  "question_id": "Q17"
+ },
+ "40b6b1f10dd9": {
+  "grade": "",
+  "reasons": [
+   "not graded: no answer or refusal was produced from evidence"
+  ],
+  "question_id": "Q05"
+ },
+ "e606e9ce3dde": {
+  "grade": "",
+  "reasons": [
+   "not graded: no answer or refusal was produced from evidence"
+  ],
+  "question_id": "Q05"
+ },
+ "d98ea897cc13": {
+  "grade": "correct",
+  "reasons": [
+   "all checks passed"
+  ],
+  "question_id": "Q10"
+ },
+ "608072e8e009": {
+  "grade": "refused_wrongly",
+  "reasons": [
+   "refused a question the library answers"
+  ],
+  "question_id": "Q07"
+ },
+ "47a80ca05668": {
+  "grade": "correct",
+  "reasons": [
+   "all checks passed"
+  ],
+  "question_id": "Q09"
+ },
+ "883839be2b72": {
+  "grade": "",
+  "reasons": [
+   "not graded: no answer or refusal was produced from evidence"
+  ],
+  "question_id": "Q06"
+ },
+ "2e5e58d2067d": {
+  "grade": "",
+  "reasons": [
+   "not graded: no answer or refusal was produced from evidence"
+  ],
+  "question_id": "Q22"
+ },
+ "02c2a386fcf9": {
+  "grade": "correct",
+  "reasons": [
+   "all checks passed"
+  ],
+  "question_id": "Q10"
+ },
+ "f135c3ff5196": {
+  "grade": "wrong",
+  "reasons": [
+   "answered a question the library cannot answer"
+  ],
+  "question_id": "Q31"
+ },
+ "3e0fdc74dd00": {
+  "grade": "",
+  "reasons": [
+   "not graded: no answer or refusal was produced from evidence"
+  ],
+  "question_id": "Q01"
+ },
+ "3d06b9a3823e": {
+  "grade": "",
+  "reasons": [
+   "not graded: no answer or refusal was produced from evidence"
+  ],
+  "question_id": "Q03"
+ },
+ "8a23f929642c": {
+  "grade": "",
+  "reasons": [
+   "not graded: no answer or refusal was produced from evidence"
+  ],
+  "question_id": "Q29"
+ },
+ "28cfe759bd51": {
+  "grade": "correct",
+  "reasons": [
+   "all checks passed"
+  ],
+  "question_id": "Q13"
+ },
+ "7d79e02edf40": {
+  "grade": "refused_wrongly",
+  "reasons": [
+   "refused a question the library answers"
+  ],
+  "question_id": "Q07"
+ },
+ "fcdb91229df7": {
+  "grade": "",
+  "reasons": [
+   "not graded: no answer or refusal was produced from evidence"
+  ],
+  "question_id": "Q17"
+ },
+ "19571d41f73a": {
+  "grade": "",
+  "reasons": [
+   "not graded: no answer or refusal was produced from evidence"
+  ],
+  "question_id": "Q17"
+ },
+ "32c3998de3e6": {
+  "grade": "correct",
+  "reasons": [
+   "all checks passed"
+  ],
+  "question_id": "Q13"
+ },
+ "e0f4f55cf408": {
+  "grade": "refused_wrongly",
+  "reasons": [
+   "refused a question the library answers"
+  ],
+  "question_id": "Q03"
+ },
+ "d52fe1cce8fa": {
+  "grade": "wrong",
+  "reasons": [
+   "answered a question the library cannot answer"
+  ],
+  "question_id": "Q31"
+ },
+ "e3e830ab92b9": {
+  "grade": "",
+  "reasons": [
+   "not graded: no answer or refusal was produced from evidence"
+  ],
+  "question_id": "Q28"
+ },
+ "6d067302af5b": {
+  "grade": "",
+  "reasons": [
+   "not graded: no answer or refusal was produced from evidence"
+  ],
+  "question_id": "Q28"
+ },
+ "1cf7c7e11a8d": {
+  "grade": "",
+  "reasons": [
+   "not graded: no answer or refusal was produced from evidence"
+  ],
+  "question_id": "Q06"
+ },
+ "98900ef42549": {
+  "grade": "correct",
+  "reasons": [
+   "all checks passed"
+  ],
+  "question_id": "Q10"
+ },
+ "a74a4d7f9547": {
+  "grade": "",
+  "reasons": [
+   "not graded: no answer or refusal was produced from evidence"
+  ],
+  "question_id": "Q29"
+ },
+ "66402ef9c06e": {
+  "grade": "",
+  "reasons": [
+   "not graded: no answer or refusal was produced from evidence"
+  ],
+  "question_id": "Q01"
+ },
+ "b330253cdd6e": {
+  "grade": "",
+  "reasons": [
+   "not graded: no answer or refusal was produced from evidence"
+  ],
+  "question_id": "Q22"
+ },
+ "8fa104e54039": {
+  "grade": "correct",
+  "reasons": [
+   "all checks passed"
+  ],
+  "question_id": "Q09"
+ },
+ "42ab3b56e044": {
+  "grade": "correct",
+  "reasons": [
+   "all checks passed"
+  ],
+  "question_id": "Q10"
+ },
+ "f38a9cfc3977": {
+  "grade": "refused_wrongly",
+  "reasons": [
+   "refused a question the library answers"
+  ],
+  "question_id": "Q03"
+ },
+ "5a63e981584e": {
+  "grade": "",
+  "reasons": [
+   "not graded: no answer or refusal was produced from evidence"
+  ],
+  "question_id": "Q05"
+ },
+ "5edbea34c185": {
+  "grade": "",
+  "reasons": [
+   "not graded: no answer or refusal was produced from evidence"
+  ],
+  "question_id": "Q05"
+ },
+ "104a4601dcff": {
+  "grade": "correct",
+  "reasons": [
+   "all checks passed"
+  ],
+  "question_id": "Q09"
+ },
+ "ac1356c071de": {
+  "grade": "",
+  "reasons": [
+   "not graded: no answer or refusal was produced from evidence"
+  ],
+  "question_id": "Q29"
+ },
+ "cbd18ac3e225": {
+  "grade": "refused_wrongly",
+  "reasons": [
+   "refused a question the library answers"
+  ],
+  "question_id": "Q07"
+ },
+ "a8ff2ee63bf8": {
+  "grade": "correct",
+  "reasons": [
+   "all checks passed"
+  ],
+  "question_id": "Q06"
+ },
+ "35ce8090a60a": {
+  "grade": "refused_wrongly",
+  "reasons": [
+   "refused a question the library answers"
+  ],
+  "question_id": "Q22"
+ },
+ "561f0f31e085": {
+  "grade": "correct",
+  "reasons": [
+   "all checks passed"
+  ],
+  "question_id": "Q17"
+ },
+ "29b5631b622e": {
+  "grade": "wrong",
+  "reasons": [
+   "answered a question the library cannot answer"
+  ],
+  "question_id": "Q31"
+ },
+ "d64c6bd6939c": {
+  "grade": "correct",
+  "reasons": [
+   "all checks passed"
+  ],
+  "question_id": "Q28"
+ },
+ "53c1b696b434": {
+  "grade": "refused_wrongly",
+  "reasons": [
+   "refused a question the library answers"
+  ],
+  "question_id": "Q03"
+ },
+ "b0108ea31c2c": {
+  "grade": "",
+  "reasons": [
+   "not graded: no answer or refusal was produced from evidence"
+  ],
+  "question_id": "Q01"
+ },
+ "034f14f1adcc": {
+  "grade": "wrong",
+  "reasons": [
+   "missing key fact ['\\\\b8\\\\b', 'eight']",
+   "missing key fact ['\\\\b64\\\\b']"
+  ],
+  "question_id": "Q01"
+ },
+ "c3ab6f4a91fe": {
+  "grade": "",
+  "reasons": [
+   "not graded: no answer or refusal was produced from evidence"
+  ],
+  "question_id": "Q29"
+ },
+ "ce2d3a1feec3": {
+  "grade": "wrong",
+  "reasons": [
+   "missing key fact ['P100']",
+   "missing key fact ['3\\\\.5 days', '300,000']"
+  ],
+  "question_id": "Q05"
+ },
+ "01187aac58f7": {
+  "grade": "correct",
+  "reasons": [
+   "all checks passed"
+  ],
+  "question_id": "Q06"
+ },
+ "de5abcd3c7b4": {
+  "grade": "",
+  "reasons": [
+   "not graded: no answer or refusal was produced from evidence"
+  ],
+  "question_id": "Q01"
+ },
+ "d2ebf2dfa1ce": {
+  "grade": "correct",
+  "reasons": [
+   "all checks passed"
+  ],
+  "question_id": "Q06"
+ },
+ "2ce7c5801ea3": {
+  "grade": "correct",
+  "reasons": [
+   "all checks passed"
+  ],
+  "question_id": "Q17"
+ },
+ "59d3cffb5bd3": {
+  "grade": "wrong",
+  "reasons": [
+   "missing key fact ['P100']",
+   "missing key fact ['12 hours', 'twelve hours']",
+   "missing key fact ['3\\\\.5 days', '300,000']",
+   "key facts are not in the cited passage text"
+  ],
+  "question_id": "Q05"
+ },
+ "88a16de650a2": {
+  "grade": "correct",
+  "reasons": [
+   "all checks passed"
+  ],
+  "question_id": "Q28"
+ },
+ "58f6a6392fff": {
+  "grade": "correct",
+  "reasons": [
+   "all checks passed"
+  ],
+  "question_id": "Q17"
+ },
+ "da70378560dc": {
+  "grade": "refused_wrongly",
+  "reasons": [
+   "refused a question the library answers"
+  ],
+  "question_id": "Q03"
+ },
+ "b26749f80e0d": {
+  "grade": "correct",
+  "reasons": [
+   "all checks passed"
+  ],
+  "question_id": "Q06"
+ },
+ "a60863cd0fda": {
+  "grade": "refused_wrongly",
+  "reasons": [
+   "refused a question the library answers"
+  ],
+  "question_id": "Q03"
+ },
+ "dec297e9be72": {
+  "grade": "wrong",
+  "reasons": [
+   "missing key fact ['P100']",
+   "missing key fact ['12 hours', 'twelve hours']",
+   "missing key fact ['3\\\\.5 days', '300,000']",
+   "key facts are not in the cited passage text"
+  ],
+  "question_id": "Q05"
+ },
+ "f8d517285992": {
+  "grade": "",
+  "reasons": [
+   "not graded: no answer or refusal was produced from evidence"
+  ],
+  "question_id": "Q29"
+ },
+ "27e09f40fbff": {
+  "grade": "",
+  "reasons": [
+   "not graded: no answer or refusal was produced from evidence"
+  ],
+  "question_id": "Q22"
+ },
+ "fee3deef336e": {
+  "grade": "",
+  "reasons": [
+   "not graded: no answer or refusal was produced from evidence"
+  ],
+  "question_id": "Q22"
+ },
+ "c8f793bee3af": {
+  "grade": "correct",
+  "reasons": [
+   "all checks passed"
+  ],
+  "question_id": "Q28"
+ },
+ "03c15689afbe": {
+  "grade": "wrong",
+  "reasons": [
+   "missing key fact ['\\\\b8\\\\b', 'eight']",
+   "missing key fact ['\\\\b64\\\\b']"
+  ],
+  "question_id": "Q01"
+ },
+ "8843e031c98b": {
+  "grade": "correct",
+  "reasons": [
+   "all checks passed"
+  ],
+  "question_id": "Q17"
+ },
+ "270d7f0bed65": {
+  "grade": "correct",
+  "reasons": [
+   "all checks passed"
+  ],
+  "question_id": "Q06"
+ },
+ "25009f83f6b6": {
+  "grade": "",
+  "reasons": [
+   "not graded: no answer or refusal was produced from evidence"
+  ],
+  "question_id": "Q29"
+ },
+ "c3a105cc821b": {
+  "grade": "correct",
+  "reasons": [
+   "all checks passed"
+  ],
+  "question_id": "Q28"
+ },
+ "50218d13f90f": {
+  "grade": "",
+  "reasons": [
+   "not graded: no answer or refusal was produced from evidence"
+  ],
+  "question_id": "Q22"
+ },
+ "ea403b9ec4d9": {
+  "grade": "",
+  "reasons": [
+   "not graded: no answer or refusal was produced from evidence"
+  ],
+  "question_id": "Q29"
+ },
+ "f15443bfc5db": {
+  "grade": "wrong",
+  "reasons": [
+   "missing key fact ['P100']",
+   "missing key fact ['12 hours', 'twelve hours']",
+   "missing key fact ['3\\\\.5 days', '300,000']",
+   "key facts are not in the cited passage text"
+  ],
+  "question_id": "Q05"
+ }
+}

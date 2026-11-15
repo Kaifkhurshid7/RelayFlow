@@ -1,0 +1,59 @@
+{
+  "key": "rpm_halved",
+  "label": "Per-minute limit halved",
+  "source": "stand-in",
+  "retrieval": "A",
+  "seed": 14,
+  "arrival": {
+    "kind": "steady",
+    "rpm": 24,
+    "duration_s": 150
+  },
+  "mock": {
+    "max_rpm": 15
+  },
+  "scheduler": {},
+  "notes": "Same offered load as 'steady', but the provider silently enforces 15 RPM; the client still believes 30 and must discover the new limit from 429 responses.",
+  "mock_base": {
+    "max_rpm": 30,
+    "max_tpm": 60000,
+    "max_daily_requests": 1000000,
+    "daily_refill_per_s": 0.0,
+    "max_concurrency": 10,
+    "concurrency_mode": "reject",
+    "failure_rate": 0.02,
+    "overload_factor": 1.5,
+    "pressure_weight": 0.5,
+    "rejected_cost_load": true,
+    "streaming_enabled": true,
+    "seed": 1234
+  },
+  "scheduler_base": {
+    "queue_capacity": 40,
+    "concurrency": 8,
+    "request_deadline_s": 60.0,
+    "attempt_timeout_s": 15.0,
+    "use_client_limiter": true,
+    "rpm": 30,
+    "tpm": 60000,
+    "daily_budget": 1000000,
+    "max_retries": 3,
+    "daily_probe_interval_s": 30.0
+  },
+  "pool": [
+    "Q01",
+    "Q03",
+    "Q05",
+    "Q06",
+    "Q07",
+    "Q09",
+    "Q10",
+    "Q13",
+    "Q17",
+    "Q22",
+    "Q28",
+    "Q29",
+    "Q31"
+  ],
+  "n_requests": 60
+}
